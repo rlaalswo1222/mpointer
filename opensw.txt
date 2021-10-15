@@ -1,0 +1,6 @@
+name : Minjae Kim
+number : 2021041070
+department : software
+grade : 1
+subject : opensw
+
